@@ -3,3 +3,5 @@ git add .
 git commit -m
 git push
 git pull
+git branch nom-de-la-branche
+git switch nom-de-la-branche
